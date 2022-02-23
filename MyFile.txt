@@ -1,0 +1,8 @@
+I am learning git and github
+
+I haven't cleared the use of :
+1.git revert
+2.git rebase
+3.git reset 
+4.git reset --hard 
+
